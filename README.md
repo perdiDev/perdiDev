@@ -18,6 +18,8 @@
   </a>
 </p>
 
+</br>
+
 I always interest with **new technology**. That's make me still alive.
 The future interest as a student with AI. I hope can learn more in [2022](https://www.instagram.com/perdidev/)
 about Artificial Intelegent.
