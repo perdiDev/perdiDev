@@ -4,6 +4,9 @@
 > University of Hasanuddin
 ---
 
+I always interest with new technology. That's make still alive.
+The future interest as a student with AI. I hope can learn more in [2022] about Artificial Intelegent.
+
 ```
 Stay Hungry, Stay Foolish
 > Steve Jobs
@@ -17,8 +20,8 @@ Stay Hungry, Stay Foolish
 - [ ] Build QR Project
 - [ ] Stay With You ♥️
 
-##### Say Hello :
-
+##### Say Hello
+<p align="center">
 <a href="https://www.instagram.com/perdidev/">
   <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -28,6 +31,7 @@ Stay Hungry, Stay Foolish
 <a href="https://www.linkedin.com/in/perdidev/">
   <img align="left" alt="PerdiDev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</p>
 
 </br>
 </br>
