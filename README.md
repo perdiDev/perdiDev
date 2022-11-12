@@ -1,26 +1,20 @@
 
-# Hello🙌, I'm Perdi
----
+## Hello🙌, I'm Perdi
 ### Informatics Engineering at
 > University of Hasanuddin
 ---
-</br>
-Here's a sentence with a footnote. [^1]
-[^1]: This is the footnote.
 
 ```
 Stay Hungry, Stay Foolish
 > Steve Jobs
 ```
+</br>
 
-### My Great Heading {#custom-id}
-
-term
-: definition
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Get University
+- [x] Join JuaraGCp
+- [x] Join GDSC
+- [ ] Build QR Project
+- [ ] Stay With You ♥️
 
 ~~The world is flat.~~
 
