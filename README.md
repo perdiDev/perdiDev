@@ -3,7 +3,6 @@
 
 ### Informatics Engineering Student
 > University of Hasanuddin
----
 
 ### Say Hello
 <p align="center">
@@ -17,7 +16,7 @@
     <img align="left" alt="PerdiDev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </p>
-
+---
 </br>
 
 I always interest with **new technology**. That's make me still alive.
