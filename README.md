@@ -1,7 +1,7 @@
 
 # Hello🙌, I'm Perdi
 ### Informatics Engineering at
-> University of Hasanuddin
+# > University of Hasanuddin
 ---
 'amazing this code'
 </br>
