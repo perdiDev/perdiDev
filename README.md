@@ -4,7 +4,6 @@
 ### Informatics Engineering Student
 > University of Hasanuddin
 
-### Say Hello
 <p align="center">
   <a href="https://www.instagram.com/perdidev/">
     <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -28,7 +27,7 @@ about Artificial Intelegent.
 </br>
 
 ```
-Stay Hungry, Stay Foolish
+"Stay Hungry, Stay Foolish"
 > Steve Jobs
 ```
 ### Resolution of 2022
