@@ -1,19 +1,16 @@
 
 # Hello🙌, I'm Perdi
-### Informatics Engineering at
-# > University of Hasanuddin
 ---
-'amazing this code'
+### Informatics Engineering at
+> University of Hasanuddin
+---
 </br>
 Here's a sentence with a footnote. [^1]
 [^1]: This is the footnote.
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+Stay Hungry, Stay Foolish
+> Steve Jobs
 ```
 
 ### My Great Heading {#custom-id}
