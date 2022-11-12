@@ -5,8 +5,8 @@
 ---
 
 I always interest with new technology. That's make still alive.
-The future interest as a student with AI. I hope can learn more in [2022]([http](https://www.instagram.com/perdidev/) about Artificial Intelegent.
-I need to highlight these ==very important words==.
+The future interest as a student with AI. I hope can learn more in [2022]([http](https://www.instagram.com/perdidev/)) about Artificial Intelegent.
+
 ```
 Stay Hungry, Stay Foolish
 > Steve Jobs
