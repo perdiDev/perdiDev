@@ -10,13 +10,14 @@ Stay Hungry, Stay Foolish
 ```
 </br>
 
+#### Resolution of 2022
 - [x] Get University
 - [x] Join JuaraGCp
 - [x] Join GDSC
 - [ ] Build QR Project
 - [ ] Stay With You ♥️
 
-~~The world is flat.~~
+##### Say Hello :
 
 <a href="https://www.instagram.com/perdidev/">
   <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
