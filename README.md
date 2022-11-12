@@ -17,7 +17,8 @@ Stay Hungry, Stay Foolish
 ```
 ### Resolution of 2022
 - [x] Get University
-- [x] Join JuaraGCp
+- [x] Join JuaraGCP
+- [x] Join Competitive Programing Competition
 - [x] Join GDSC
 - [ ] Build QR Project
 - [ ] Stay With You ♥️
