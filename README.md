@@ -17,10 +17,10 @@ Stay Hungry, Stay Foolish
 ```
 ### Resolution of 2022
 - [x] Get University
-- [x] Join JuaraGCP
+- [x] Join Event to Get Swag (JuaraGCP, JuaraAndroid)
 - [x] Join Competitive Programing Competition
-- [x] Join GDSC
-- [ ] Build QR Project
+- [x] Join Community Base on Developer (GDSC)
+- [ ] Build Project with Complex Fitur
 - [ ] Stay With You ♥️
 
 ### Say Hello
