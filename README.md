@@ -22,7 +22,7 @@ Stay Hungry, Stay Foolish
 
 ##### Say Hello
 <p align="center">
-<a href="https://www.instagram.com/perdidev/">
+<p align="center"><a href="https://www.instagram.com/perdidev/">
   <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/malaikat___maut_">
@@ -31,7 +31,6 @@ Stay Hungry, Stay Foolish
 <a href="https://www.linkedin.com/in/perdidev/">
   <img align="left" alt="PerdiDev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</p>
 
 </br>
 </br>
