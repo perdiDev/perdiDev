@@ -1,5 +1,5 @@
 
-## Hello🙌, I'm Perdi
+<h1 align="center">Oi 🙌, I'm Perdi</h1>
 ### Informatics Engineering at
 > University of Hasanuddin
 ---
@@ -13,14 +13,14 @@ about Artificial Intelegent.
 Stay Hungry, Stay Foolish
 > Steve Jobs
 ```
-## Resolution of 2022
+### Resolution of 2022
 - [x] Get University
 - [x] Join JuaraGCp
 - [x] Join GDSC
 - [ ] Build QR Project
 - [ ] Stay With You ♥️
 
-## Say Hello
+### Say Hello
 <p align="center">
   <a href="https://www.instagram.com/perdidev/">
     <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
