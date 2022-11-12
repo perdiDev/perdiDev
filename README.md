@@ -5,6 +5,7 @@
 ---
 'amazing this code'
 </br>
+Here's a sentence with a footnote. [^1]
 [^1]: This is the footnote.
 
 ```
@@ -14,6 +15,17 @@
   "age": 25
 }
 ```
+
+### My Great Heading {#custom-id}
+
+term
+: definition
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+~~The world is flat.~~
 
 <a href="https://www.instagram.com/perdidev/">
   <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
