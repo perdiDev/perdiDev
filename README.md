@@ -1,4 +1,1 @@
-### Hi there 👋
-
-
-https://github-profile-trophy.vercel.app/?username=perdi&theme=algolia
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perdiDev)](https://github.com/anuraghazra/github-readme-stats)
