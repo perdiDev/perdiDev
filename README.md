@@ -1,5 +1,6 @@
 
 <h1 align="center">Oi 🙌, I'm Perdi</h1>
+
 ### Informatics Engineering at
 > University of Hasanuddin
 ---
@@ -7,6 +8,7 @@
 I always interest with **new technology**. That's make me still alive.
 The future interest as a student with AI. I hope can learn more in [2022](https://www.instagram.com/perdidev/)
 about Artificial Intelegent.
+
 </br>
 
 ```
@@ -33,6 +35,7 @@ Stay Hungry, Stay Foolish
   </a>
 </p>
 
+</br>
 </br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=perdiDev&show_icons=true&theme=radical" alt="perdiDev" />
