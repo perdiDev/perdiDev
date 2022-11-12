@@ -1,5 +1,19 @@
 
 # Hello🙌, I'm Perdi
+### Informatics Engineering at
+> University of Hasanuddin
+---
+'amazing this code'
+</br>
+[^1]: This is the footnote.
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 <a href="https://www.instagram.com/perdidev/">
   <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -12,7 +26,6 @@
 </a>
 
 </br>
-=========
 </br>
 </br>
 
