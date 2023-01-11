@@ -20,7 +20,7 @@
 
 </br>
 
-###### I always interest with **new technology**. That's make me still alive. The future interest as a student with AI. I hope can learn more in [2023](https://www.instagram.com/perdidev/) about Artificial Intelegent. For now, I'm a backend developer.
+###### Hi, I'm Perdi, a student of engineering at University of Hasanuddin and a backend developer. I am passionate about using technology to make a difference, and excited to start my career in 2023. I'm looking forward to a great career in [2023](https://www.instagram.com/perdidev/) with AI.
 
 </br>
 
