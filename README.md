@@ -28,12 +28,8 @@
 "Stay Hungry, Stay Foolish"
 > Steve Jobs
 ```
-### Resolution of 2022
-- [x] Get University
-- [x] Join Event to Get Swag (JuaraGCP, JuaraAndroid)
-- [x] Join Competitive Programing Competition
-- [x] Join Community Base on Developer (GDSC)
-- [ ] Build Project with Complex Fitur
+### Resolution of 2023
+- [x] Make a startUp
 - [ ] Stay With You ♥️
 
 </br>
