@@ -1,5 +1,5 @@
 
-<h1 align="center">Oi 🙌, I'm Perdi</h1>
+<h2 align="center">🙌 I'm Perdi </h1>
 
 ### Informatics Engineering Student
 > University of Hasanuddin
@@ -20,7 +20,7 @@
 
 </br>
 
-###### Hi, I'm Perdi, a student of engineering at University of Hasanuddin and a backend developer. I am passionate about using technology to make a difference, and excited to start my career in 2023. I am constantly seeking new challenges to test my skills and push the boundaries of what is possible. I am poised to make my mark in the field and make an impact in the world from 2023 onward.
+#### Hi, I'm Perdi, a student of engineering at University of Hasanuddin and a backend developer. I am passionate about using technology to make a difference, and excited to start my career in 2023. I am constantly seeking new challenges to test my skills and push the boundaries of what is possible. I am poised to make my mark in the field and make an impact in the world from 2023 onward.
 
 </br>
 
