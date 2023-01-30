@@ -1,5 +1,5 @@
 
-<h2 align="center">🙌 I'm Perdi </h1>
+<h2 align="center">😉 I'm Perdi - Web Developer 🔓 </h1>
 
 ### Informatics Engineering Student
 > University of Hasanuddin
