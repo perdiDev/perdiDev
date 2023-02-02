@@ -28,6 +28,9 @@
 "Stay Hungry, Stay Foolish"
 > Steve Jobs
 ```
+
+![](https://komarev.com/ghpvc/?username=perdiDev&label=See)
+
 ### Resolution of 2023
 - [x] Make a startUp
 - [x] Making an open source project
