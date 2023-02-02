@@ -19,7 +19,8 @@
 ---
 
 </br>
-<div align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=perdiDev&theme=algolia)](https://git.io/streak-stats)
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=perdiDev&theme=algolia" alt="perdiDev" />
 </div>
 
 </br>
@@ -44,4 +45,4 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=perdiDev&show_icons=true&theme=radical" alt="perdiDev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=perdiDev&show_icons=true&theme=algolia" alt="perdiDev" />
