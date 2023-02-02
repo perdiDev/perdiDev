@@ -19,10 +19,11 @@
 ---
 
 </br>
-<div align="center"> 
+<div align="center" style="margin-bottom:100px;"> 
   <img src="https://streak-stats.demolab.com/?user=perdiDev&theme=algolia" alt="perdiDev" />
 </div>
-<p align="center" style="background-color: #FFFF00"> 
+</br>
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -69,7 +70,6 @@
   </a> 
 </p>
 </br>
-
 #### Hi, I'm Perdi, a student of engineering at University of Hasanuddin and a `WEB developer`. I am passionate about using technology to make a difference, and excited to start my career in 2023. I am constantly seeking new challenges to test my skills and push the boundaries of what is possible. I am poised to make my mark in the field and make an impact in the world from 2023 onward.
 
 </br>
