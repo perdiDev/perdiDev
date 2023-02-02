@@ -18,6 +18,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=perdiDev&theme=algolia)](https://git.io/streak-stats)
+
 </br>
 
 #### Hi, I'm Perdi, a student of engineering at University of Hasanuddin and a backend developer. I am passionate about using technology to make a difference, and excited to start my career in 2023. I am constantly seeking new challenges to test my skills and push the boundaries of what is possible. I am poised to make my mark in the field and make an impact in the world from 2023 onward.
