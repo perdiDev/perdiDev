@@ -20,6 +20,7 @@
 
 </br>
 <div align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=perdiDev&theme=algolia)](https://git.io/streak-stats)
+</div>
 
 </br>
 
