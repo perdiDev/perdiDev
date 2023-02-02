@@ -22,7 +22,7 @@
 <div align="center"> 
   <img src="https://streak-stats.demolab.com/?user=perdiDev&theme=algolia" alt="perdiDev" />
 </div>
-<p align="center" style="padding:24px; background-color: white"> 
+<p align="center" style="background-color: #FFFF00"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
