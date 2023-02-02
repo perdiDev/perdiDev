@@ -31,6 +31,7 @@
 ### Resolution of 2023
 - [x] Make a startUp
 - [x] Making an open source project
+- [x] Contribute in open source
 - [ ] Stay With You ♥️
 
 </br>
