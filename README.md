@@ -9,7 +9,7 @@
     <img align="left" alt="PerdiDev's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://twitter.com/perdidev/" target="_blank">
-    <img align="left" alt="PerdiDev | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/.png" />
+    <img align="left" alt="PerdiDev | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
   </a>
   <a href="https://www.linkedin.com/in/perdi-dev/" target="_blank">
     <img align="left" alt="PerdiDev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
