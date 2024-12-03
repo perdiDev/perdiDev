@@ -86,11 +86,12 @@
 
 ![](https://komarev.com/ghpvc/?username=perdiDev&label=See)
 
-### \| Resolution of 2023
+### \| Resolution of 2024
 <!-- - [x] Make a startUp
 - [x] Making an open source project
 - [x] Contribute in open source -->
 - [ ] Stay With You ♥️
+- [ ] KEEP ON FIGHTING TILL THE ENDD
 
 </br>
 </br>
