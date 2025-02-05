@@ -1,5 +1,5 @@
 
-<h2 align="center">😉 I'm Perdi - Backend Developer 🔓 </h1>
+<h2 align="center">😉 I'm Perdi - Web Developer 🔓 </h1>
 
 ### Informatics Engineering Student
 > University of Hasanuddin
@@ -90,8 +90,8 @@
 <!-- - [x] Make a startUp
 - [x] Making an open source project
 - [x] Contribute in open source -->
-- [ ] Stay With You ♥️
-- [ ] KEEP ON FIGHTING TILL THE ENDD
+- [x] Stay With You ♥️
+- [ ] KEEP ON FIGHTING TILL THE ENDDD
 
 </br>
 </br>
