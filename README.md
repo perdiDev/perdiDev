@@ -18,11 +18,11 @@
 
 ---
 
-</br>
+<!-- </br>
 <div align="center" style="margin-bottom:100px;"> 
   <img src="https://streak-stats.demolab.com/?user=perdiDev&theme=algolia" alt="perdiDev" />
 </div>
-</br>
+</br> -->
 <!-- <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -84,7 +84,7 @@
 ```
 ---
 
-![](https://komarev.com/ghpvc/?username=perdiDev&label=See)
+<!-- ![](https://komarev.com/ghpvc/?username=perdiDev&label=See) -->
 
 ### \| Resolution of 2024
 <!-- - [x] Make a startUp
